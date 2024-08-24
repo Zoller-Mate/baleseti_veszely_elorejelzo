@@ -1,9 +1,7 @@
 Az Ai tesztelésére nyissa meg, a "baleseti_ai.py" filet. Ott adja meg a kért adatokat, és várja a megítélt veszély értékét. Elötte bizonyosodjon meg, hogy telepítve vannak a szükséges könyvtárak, illetve a python.
 
-
-
-
-
+VS code-ban ezzel a parancsal tudja telepíteni a könyvtárakat:
+pip install pandas scikit-learn tensorflow
 
 
 
