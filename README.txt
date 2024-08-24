@@ -1,3 +1,12 @@
+Az Ai tesztelésére nyissa meg, a "baleseti_ai.py" filet. Ott adja meg a kért adatokat, és várja a megítélt veszély értékét. Elötte bizonyosodjon meg, hogy telepítve vannak a szükséges könyvtárak, illetve a python.
+
+
+
+
+
+
+
+
 A fájlok magyarázata:
 
 baleseti_veszely_data.csv - Táblázat formályában tárolja a betanításhoz szükséges adatokat
